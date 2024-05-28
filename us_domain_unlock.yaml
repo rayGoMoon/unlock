@@ -41,3 +41,8 @@ payload:
   - "+.office365tw.com"
   - "+.renovacionoffice.com"
   - "+.sprinklesapp.com"
+  - "+.deepl.com"
+  - "+.groq.com"
+  - "+.mistral.ai"
+  - "+.turso.tech"
+  - "+.turso.io"
