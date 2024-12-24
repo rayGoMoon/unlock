@@ -1,12 +1,9 @@
 payload:
 - "+.deeplearning.ai"
 - "+.metacubex.one"
-- "+.cursor.sh"
 - "+.jsr.io"
 - "+.deno.land"
 - "+.deno.com"
 - "+.ubuntu.com"
-- "+.zed.dev"
-- "+.supermaven.com"
 - "+.intercom.io"
 - "+.v0.dev"
